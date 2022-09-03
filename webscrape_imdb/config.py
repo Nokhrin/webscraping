@@ -1,0 +1,6 @@
+URL = 'https://www.imdb.com/chart/top'
+FILENAME = 'output/top_raited_movies.xlsx'
+TBODY_CLASS = 'lister-list'
+NAME_CLASS = 'titleColumn'
+RAITING_CLASS = 'ratingColumn imdbRating'
+YEAR_CLASS = 'secondaryInfo'
